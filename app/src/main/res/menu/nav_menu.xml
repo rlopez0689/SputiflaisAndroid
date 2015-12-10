@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:checked="true"
+            android:icon="@drawable/ic_home"
+            android:title="@string/home_item" />
+        <item
+            android:id="@+id/nav_products"
+            android:icon="@drawable/ic_queue_music_blue_grey_300_18dp"
+            android:title="@string/songs_item" />
+        <item
+            android:id="@+id/nav_cart"
+            android:icon="@drawable/ic_person_blue_grey_300_18dp"
+            android:title="@string/artists_item" />
+        <item
+            android:id="@+id/nav_order"
+            android:icon="@drawable/ic_album_blue_grey_300_18dp"
+            android:title="@string/albums_item" />
+
+        <!-- Sección de configuración -->
+        <item
+            android:id="@+id/configuration_section"
+            android:title="@string/settings_item">
+            <menu>
+                <item
+                    android:id="@+id/nav_log_out"
+                    android:icon="@android:drawable/ic_lock_power_off"
+                    android:title="@string/log_out_item" />
+            </menu>
+        </item>
+    </group>
+</menu>

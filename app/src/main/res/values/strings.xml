@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Sputiflais</string>
+    <string name="app_description">Nos conectamos a la API de spotify para buscar tus albumes, canciones y artistas favoritos.</string>
+    <string name="change_view">Change View</string>
+    <string name="home_item">Home</string>
+    <string name="songs_item">Songs</string>
+    <string name="artists_item">Artists</string>
+    <string name="albums_item">Albums</string>
+    <string name="log_out_item">Log Out</string>
+    <string name="settings_item">Configuration</string>
+    <string name="email_navdrawer">user@user.com</string>
+    <string name="name_navdrawer">User</string>
+    <string name="button">Button</string>
+    <string name="facebook_app_id">1655979491327102</string>
+    <string name="title_activity_home">Sputiflais</string>
+
+    <string name="user_name_default">Name unknown</string>
+    <string name="user_email_default">Email unknown</string>
+    <string name="user_birthday_default">Birthday unknown</string>
+</resources>

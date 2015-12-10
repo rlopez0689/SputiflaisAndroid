@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="primary">#212121</color>
+    <color name="accent">#4CAF50</color>
+    <color name="accent_transparency">#D84CAF50</color>
+    <color name="window_background">#FFFFFF</color>
+    <color name="primary_dark">#000000</color>
+    <color name="text">#FAFAFA</color>
+    <color name="text_secondary">#B6B6B6</color>
+    <color name="accent_transparency_dark">#cd4d1d1d</color>
+    <color name="primary_dark_transparency">#80040408</color>
+
+</resources>
